@@ -1,1 +1,6 @@
 # RSA-Factoring-Challenge
+
+ALX - SOFTWARE ENGINEERING
+
+
+Atuthor JOHN MATHAI GITHINJI
